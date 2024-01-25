@@ -139,6 +139,9 @@ img {
   line-height: 1.07;
   letter-spacing: 1.12px;
   max-width: 496px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 48px;
 }
 
 .order-button {
@@ -156,6 +159,7 @@ img {
   border: none;
   border-radius: 4px;
   border-color: #4d5ae5;
+  margin: 0 auto;
 }
 
 .order-button:hover {
@@ -202,6 +206,7 @@ img {
 
 .features-title {
   margin-bottom: 8px;
+  font-weight: 500px;
 }
 
 /* ===== OUR TEAM ===== */
@@ -311,6 +316,7 @@ img {
   color: #f4f4fd;
   line-height: 24px;
   letter-spacing: 0.32px;
+  max-width: 264px;
 }
 
 .footer {
